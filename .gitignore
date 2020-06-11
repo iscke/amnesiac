@@ -1,0 +1,5 @@
+package-lock.json
+tsconfig.tsbuildinfo
+dist/*
+!dist/readme.md
+node_modules/*
